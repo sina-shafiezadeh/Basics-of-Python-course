@@ -1,4 +1,4 @@
-# python-for-non-programmers
+# Basics of Python Course
 This repository contains the course materials for the "Basics of Python" course taught in October 2023 to psychology and neuroscience master students in the General Psychology department of the University of Padova. The course was designed to introduce non-programmers to the basics of Python programming language in 20 hours.
 
 The course materials include:
