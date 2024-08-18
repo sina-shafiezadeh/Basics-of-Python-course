@@ -1,5 +1,5 @@
 # Basics of Python Course
-This repository contains the course materials for the "Basics of Python" course taught in October 2023 to psychology and neuroscience master students in the General Psychology department of the University of Padova. The course was designed to introduce non-programmers to the basics of Python programming language in 20 hours.
+This repository contains the course materials for the "Basics of Python" course taught in October 2024 to psychology and neuroscience master students in the General Psychology department of the University of Padova. The course was designed to introduce non-programmers to the basics of Python programming language in 20 hours.
 
 The course materials include:
 1. Two Google Colab files with code examples and exercises to help students learn Python fundamentals during sessions 1 to 4.
